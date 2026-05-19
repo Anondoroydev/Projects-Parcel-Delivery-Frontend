@@ -5,4 +5,6 @@ export const role = {
   sender: "SENDER",
   reciver: "RECIVER",
   DELIVERY_MAN: "DELIVERY_MAN",
+
+  
 };
